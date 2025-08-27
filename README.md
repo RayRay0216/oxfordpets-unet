@@ -1,3 +1,9 @@
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-2.x-orange" />
+  <img src="https://img.shields.io/badge/Dataset-Oxford--IIIT%20Pet-blue" />
+  <img src="https://img.shields.io/badge/Task-Semantic%20Segmentation-brightgreen" />
+</p>
+
 # Oxford Pets U-Net Baseline (PyTorch)
 
 
